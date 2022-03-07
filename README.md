@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @2ProduceAndCreate
 - 👀 I’m interested in ... learning software development
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... JS
 - 💞️ I’m looking to collaborate on ... open source projects
 - 📫 How to reach me ... here!
 
